@@ -14,7 +14,7 @@ Este es un sistema básico de gestión de clientes desarrollado en Java como par
 - Java (JDK 17)
 - Swing (interfaz gráfica)
 - MySQL (base de datos)
-- NetBeans / Visual Studio Code
+- Visual Studio Code
 
 ## 👨‍💻 Sobre mí
 Mi nombre es **Gerson Bueso**, soy estudiante de Ingeniería en Computación con interés en desarrollo de software y bases de datos. Este proyecto forma parte de mi formación como **Developer Junior**.
